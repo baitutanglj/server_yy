@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f263641-cd8a-48e9-9bc3-65bcaa93066b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d6e5472b-a7a6-4739-8f70-e2f609e742e9" />
+  </component>
+  <component name="ProjectId" id="1kE1MGPGaRkKiTCuYhLTJatRdvt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../home/linjie/WebstormProjects/02-manage-system-breadcrumb" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/javascripts/process" />
+      <recent name="$PROJECT_DIR$/public/javascripts" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/javascripts/email" />
+      <recent name="$PROJECT_DIR$/routers" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/script" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.filetest.js">
+    <configuration name="filetest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/filetest.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public/javascripts/fileExist/index.js" working-dir="$PROJECT_DIR$/public/javascripts/fileExist">
+      <method v="2" />
+    </configuration>
+    <configuration name="sendemail.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routers/sendemail.js" working-dir="$PROJECT_DIR$/routers">
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.server" />
+        <item itemvalue="Node.js.filetest.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.sendemail.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f263641-cd8a-48e9-9bc3-65bcaa93066b" name="Default Changelist" comment="" />
+      <created>1605250887044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605250887044</updated>
+      <workItem from="1605250888107" duration="21398000" />
+      <workItem from="1605595056556" duration="38867000" />
+      <workItem from="1605852726777" duration="33000" />
+      <workItem from="1606094420215" duration="15241000" />
+      <workItem from="1606122996107" duration="100000" />
+      <workItem from="1606123118506" duration="645000" />
+      <workItem from="1606123866493" duration="170000" />
+      <workItem from="1606124188806" duration="135000" />
+      <workItem from="1606124403260" duration="5078000" />
+      <workItem from="1606214262373" duration="105000" />
+      <workItem from="1606185561306" duration="562000" />
+      <workItem from="1606188218569" duration="404000" />
+      <workItem from="1606354061516" duration="88000" />
+      <workItem from="1606354228543" duration="129000" />
+      <workItem from="1606354639520" duration="10904000" />
+      <workItem from="1606375757077" duration="85000" />
+      <workItem from="1606375902754" duration="79000" />
+      <workItem from="1606376018456" duration="238000" />
+      <workItem from="1606377022951" duration="832000" />
+      <workItem from="1606378079032" duration="2804000" />
+      <workItem from="1606797717156" duration="12076000" />
+      <workItem from="1606871451814" duration="13921000" />
+      <workItem from="1606974445612" duration="577000" />
+      <workItem from="1606977438217" duration="2019000" />
+      <workItem from="1607310314234" duration="86000" />
+      <workItem from="1607310415866" duration="52597000" />
+      <workItem from="1607561985628" duration="1149000" />
+      <workItem from="1607573327542" duration="4611000" />
+      <workItem from="1607585836241" duration="6426000" />
+      <workItem from="1607922156233" duration="1186000" />
+      <workItem from="1607927285630" duration="3851000" />
+      <workItem from="1607997127592" duration="11289000" />
+      <workItem from="1608109356392" duration="1418000" />
+      <workItem from="1609293676215" duration="181000" />
+      <workItem from="1609302319647" duration="396000" />
+      <workItem from="1609912493081" duration="6972000" />
+      <workItem from="1609988804279" duration="30675000" />
+      <workItem from="1610328241838" duration="15333000" />
+      <workItem from="1610353742200" duration="94000" />
+      <workItem from="1610353998806" duration="1249000" />
+      <workItem from="1610398497806" duration="81000" />
+      <workItem from="1610933033032" duration="50000" />
+      <workItem from="1610933099512" duration="384000" />
+      <workItem from="1611121323322" duration="1388000" />
+      <workItem from="1611282788917" duration="2328000" />
+      <workItem from="1611648779231" duration="1425000" />
+      <workItem from="1611722856083" duration="8509000" />
+      <workItem from="1612142490539" duration="690000" />
+      <workItem from="1612188501265" duration="7136000" />
+      <workItem from="1612412665086" duration="1891000" />
+      <workItem from="1612593238892" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

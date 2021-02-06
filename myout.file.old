@@ -1,0 +1,145 @@
+nohup: ignoring input
+Wed, 27 Jan 2021 07:59:50 GMT body-parser deprecated undefined extended: provide extended option at app.js:18:20
+http://localhost:8080 server start
+/mnt/software/SyntaLinker_Working/20210127/LbO9BfymI_LXR_clean_positive.sdf
+/mnt/software/SyntaLinker_Working/20210127/QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000.pt
+params:{"firstsmi":"C12=C([*])N=CN=C1NC=C2","secondsmi":"C1=C(C(CCO)[*])C=CC=C1","minlen":"6","maxlen":"8","ifOwnModel":"true","modelPath":"/mnt/software/SyntaLinker_Working/20210127/QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000.pt","selected_model":"ChEMBL_model_average.pt","besttop":"30","beam_size":"10","email":"chen_hongming@grmh-gdl.cn"}
+/mnt/software/SyntaLinker_Working/20210127/QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000_Sampling/match_6_8_QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000.txt
+pid:2016642
+stdout: run step1 ok
+run step2 ok
+run step3 ok
+
+Message: <2c5315d0-86c5-c4f7-038f-4ffa5306e260@163.com>
+sent: 250 Mail OK queued as smtp14,EsCowABXQuCKKxFgVIoPRQ--.37493S2 1611737995
+/mnt/software/SyntaLinker_Working/20210127/MU3U8l8Rs_QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000.pt
+params:{"firstsmi":"C12=C([*])N=CN=C1NC=C2","secondsmi":"C1=C(C(CCO)[*])C=CC=C1","minlen":"6","maxlen":"8","ifOwnModel":"true","modelPath":"/mnt/software/SyntaLinker_Working/20210127/MU3U8l8Rs_QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000.pt","selected_model":"ChEMBL_model_average.pt","beam_size":"10","email":"2919588049@qq.com"}
+/mnt/software/SyntaLinker_Working/20210127/MU3U8l8Rs_QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000_Sampling/match_6_8_MU3U8l8Rs_QzYNHJ1Cg_GkNwXHZOv_excape_gostar_actives_model_step_50000.txt
+pid:2027453
+stdout: run step1 ok
+run step2 ok
+run step3 ok
+
+Message: <d822580b-bdee-7639-3eff-75ef52ff8e08@163.com>
+sent: 250 Mail OK queued as smtp9,DcCowACnKGhQMBFgo4+rcg--.264S2 1611739218
+/mnt/software/SyntaLinker_Working/20210127/zgYkYu8zI_zinc_3000w.pt
+params:{"firstsmi":"C12=C([*])N=CN=C1NC=C2","secondsmi":"C1=C(C(CCO)[*])C=CC=C1","minlen":"6","maxlen":"8","ifOwnModel":"true","modelPath":"/mnt/software/SyntaLinker_Working/20210127/zgYkYu8zI_zinc_3000w.pt","selected_model":"ChEMBL_model_average.pt","beam_size":"10","email":"2919588049@qq.com"}
+/mnt/software/SyntaLinker_Working/20210127/zgYkYu8zI_zinc_3000w_Sampling/match_6_8_zgYkYu8zI_zinc_3000w.txt
+pid:2074312
+stdout: run step1 ok
+run step2 ok
+run step3 ok
+
+Message: <fd483d13-e2a4-e771-9b74-fc702ca27623@163.com>
+sent: 250 Mail OK queued as smtp10,DsCowABXZZnyRRFg46NciA--.456S2 1611744755
+/mnt/software/SyntaLinker_Working/20210128/BC8MvSqVU_LXR_clean_positive.sdf
+/mnt/software/SyntaLinker_Working/20210128/tKBfKysqw_LXR_clean_positive.sdf
+/mnt/software/SyntaLinker_Working/20210128/TNUIbr6L8_LXR_clean_positive.sdf
+/mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives.sdf
+params:{"sdfPath":"/mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives.sdf","modelPath":"","HBD":"6","HBA":"6","MW":"350","rings":"1","isTransfer":"true","ifOwnModel":"false","selected_model":"ChEMBL_model_average.pt","train_steps":"50000","save_checkpoint_steps":"1000","batch_size":"64","encoder_type":"transformer","decoder_type":"transformer","email":"chen_hongming@grmh-gdl.cn"}
+/mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/qj_EWMOP4_excape_gostar_actives_model_step_50000.pt
+pid:2681739
+Error: Command failed: bash mytraintrasferOther.sh /mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives.sdf         6 6 350 1          50000 1000 64           /mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/qj_EWMOP4_excape_gostar_actives_model_step_50000.pt ChEMBL_model_average.pt undefined undefined
+usage: mmps_utils2.py [-h] -input_data_path INPUT_DATA_PATH [-n_jobs N_JOBS]
+                      -output OUTPUT -HBD HBD -HBA HBA -MW MW [-rings RINGS]
+                      [-length LENGTH] [-HEV HEV]
+mmps_utils2.py: error: argument -length/-length: invalid int value: 'undefined'
+[2021-01-28 14:19:51,352 INFO] Extracting features...
+[2021-01-28 14:19:51,353 INFO]  * number of source features: -1.
+[2021-01-28 14:19:51,353 INFO]  * number of target features: -1.
+[2021-01-28 14:19:51,353 INFO] Building `Fields` object...
+[2021-01-28 14:19:51,353 INFO] Building & saving training data...
+[2021-01-28 14:19:51,353 INFO] Reading source and target files: /mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/src-train /mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/tgt-train.
+[2021-01-28 14:19:51,354 INFO] Building & saving validation data...
+[2021-01-28 14:19:51,355 INFO] Reading source and target files: /mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/src-val /mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/tgt-val.
+[2021-01-28 14:19:51,356 INFO] Building & saving vocabulary...
+[2021-01-28 14:19:51,356 INFO]  * tgt vocab size: 4.
+Traceback (most recent call last):
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/preprocess.py", line 235, in <module>
+    main()
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/preprocess.py", line 231, in main
+    build_save_vocab(train_dataset_files, fields, opt)
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/preprocess.py", line 197, in build_save_vocab
+    opt.tgt_words_min_frequency)
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/onmt/inputters/inputter.py", line 337, in build_vocab
+    for j in range(dataset.n_tgt_feats):
+UnboundLocalError: local variable 'dataset' referenced before assignment
+[2021-01-28 14:19:52,144 INFO] Loading checkpoint from /mnt/home/linjie/projects/SyntaLinker_rt/model/ChEMBL_model_average.pt
+Traceback (most recent call last):
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/train_transform.py", line 119, in <module>
+    main(opt)
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/train_transform.py", line 52, in main
+    single_main(opt, 0)
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/onmt_transform/train_single.py", line 100, in main
+    first_dataset = next(lazily_load_dataset("train", opt))
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/onmt_transform/inputters/inputter.py", line 551, in lazily_load_dataset
+    yield _lazy_dataset_loader(pt, corpus_type)
+  File "/mnt/home/linjie/projects/SyntaLinker_rt/onmt_transform/inputters/inputter.py", line 538, in _lazy_dataset_loader
+    dataset = torch.load(pt_file)
+  File "/mnt/home/linjie/anaconda3/envs/nmt1.0.0_torch1.3/lib/python3.6/site-packages/torch/serialization.py", line 419, in load
+    f = open(f, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/qj_EWMOP4_excape_gostar_actives.train.pt'
+cp: cannot stat '/mnt/software/SyntaLinker_Working/20210128/qj_EWMOP4_excape_gostar_actives_train/checkpoints/qj_EWMOP4_excape_gostar_actives_model_step_50000.pt': No such file or directory
+
+    at ChildProcess.exithandler (child_process.js:308:12)
+    at ChildProcess.emit (events.js:314:20)
+    at maybeClose (internal/child_process.js:1022:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:287:5)
+Error code: 1
+Signal received: null
+stdout: MMPs_cutting.sh finished
+src_tgt.sh finished
+preprocess finished
+GPU0 is avaiable
+training.sh finished
+
+Message: <77e33c53-3544-1137-044d-b92cc84128aa@163.com>
+sent: 250 Mail OK queued as smtp8,DMCowABHieQBWBJglyR6OA--.153S2 1611814915
+/mnt/software/SyntaLinker_Working/20210128/hAvi8Z0Y2_excape_gostar_actives.sdf
+params:{"sdfPath":"/mnt/software/SyntaLinker_Working/20210128/hAvi8Z0Y2_excape_gostar_actives.sdf","modelPath":"","HBD":"6","HBA":"6","MW":"350","rings":"1","len":"1","HEV":"2","isTransfer":"true","ifOwnModel":"false","selected_model":"zinc_3000w.pt","train_steps":"50000","save_checkpoint_steps":"1000","batch_size":"64","email":"chen_hongming@grmh-gdl.cn"}
+/mnt/software/SyntaLinker_Working/20210128/hAvi8Z0Y2_excape_gostar_actives_train/hAvi8Z0Y2_excape_gostar_actives_model_step_50000.pt
+pid:2685021
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stderr maxBuffer length exceeded
+    at Socket.onChildStderr (child_process.js:391:14)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:268:11)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+Error code: ERR_CHILD_PROCESS_STDIO_MAXBUFFER
+Signal received: undefined
+stdout: MMPs_cutting.sh finished
+src_tgt.sh finished
+preprocess finished
+GPU0 is avaiable
+
+Message: <952d4490-d587-86af-51da-977a72a93a62@163.com>
+sent: 250 Mail OK queued as smtp8,DMCowADnJM0JZRJgkKF_OA--.1077S2 1611818252
+/mnt/software/SyntaLinker_Working/20210129/gagkvm47m_hAvi8Z0Y2_excape_gostar_actives_model_step_50000.pt
+params:{"firstsmi":"C12=C([*])N=CN=C1NC=C2","secondsmi":"C1=C(C(CCO)[*])C=CC=C1","minlen":"6","maxlen":"8","ifOwnModel":"true","modelPath":"/mnt/software/SyntaLinker_Working/20210129/gagkvm47m_hAvi8Z0Y2_excape_gostar_actives_model_step_50000.pt","selected_model":"ChEMBL_model_average.pt","beam_size":"100","email":"chen_hongming@grmh-gdl.cn"}
+/mnt/software/SyntaLinker_Working/20210129/gagkvm47m_hAvi8Z0Y2_excape_gostar_actives_model_step_50000_Sampling/match_6_8_gagkvm47m_hAvi8Z0Y2_excape_gostar_actives_model_step_50000.txt
+pid:3458773
+stdout: run step1 ok
+run step2 ok
+run step3 ok
+
+Message: <1ca2eb2e-ef07-fb48-41c4-ef6e5605f0e8@163.com>
+sent: 250 Mail OK queued as smtp14,EsCowAC3vwuOthNgS+RVRg--.18385S2 1611904654
+params:{"firstsmi":"C12=C([*])N=CN=C1NC=C2","secondsmi":"C1=C(C(CCO)[*])C=CC=C1","minlen":"6","maxlen":"8","ifOwnModel":"true","modelPath":"/mnt/software/SyntaLinker_Working/20210129/gagkvm47m_hAvi8Z0Y2_excape_gostar_actives_model_step_50000.pt","selected_model":"ChEMBL_model_average.pt","beam_size":"30","email":"chen_hongming@grmh-gdl.cn"}
+/mnt/software/SyntaLinker_Working/20210129/gagkvm47m_hAvi8Z0Y2_excape_gostar_actives_model_step_50000_Sampling/match_6_8_gagkvm47m_hAvi8Z0Y2_excape_gostar_actives_model_step_50000.txt
+pid:3478675
+RangeError [ERR_CHILD_PROCESS_STDIO_MAXBUFFER]: stderr maxBuffer length exceeded
+    at Socket.onChildStderr (child_process.js:391:14)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:268:11)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+Error code: ERR_CHILD_PROCESS_STDIO_MAXBUFFER
+Signal received: undefined
+stdout: run step1 ok
+PRED AVG SCORE: -0.0127, PRED PPL: 1.0128
+run step2 ok
+
+Message: <c0581ebd-25c7-9b4b-0cf0-876164ca5493@163.com>
+sent: 250 Mail OK queued as smtp7,C8CowABXUpplIBRgjbLPLA--.23943S2 1611931751
